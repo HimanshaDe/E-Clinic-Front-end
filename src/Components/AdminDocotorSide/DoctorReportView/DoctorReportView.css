@@ -1,0 +1,22 @@
+.find_doctor_area{
+    margin-top: 46px;
+    padding-left: 42px;
+}
+.right{
+    margin-left: 50px;
+    width: 100%;
+}
+.m_reports{
+    margin-top: 30px;
+    margin-left: 8px;
+    font-weight: bold;text-decoration: underline;
+}
+.reports{
+    flex-wrap: wrap;
+    display: flex;
+}
+.report{
+   display: flex;
+   padding-right: 30px;
+    
+}

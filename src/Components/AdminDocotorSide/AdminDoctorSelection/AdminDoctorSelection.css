@@ -1,0 +1,44 @@
+.bodyarea{
+ 
+}
+
+.selectionarea{
+    
+    height: 657px;
+   display: flex;
+    margin: auto;
+    width: 50%;
+}
+.leftside{
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.rightside{
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.cardlogin:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card-body{
+    margin: auto;
+}
+.button{
+    width: 200px;
+}
+.crd_title{
+    text-align: center;
+}
+.background{
+    position: absolute;
+}

@@ -1,0 +1,68 @@
+.home_desc_area{
+    height: 800px;
+    width: 80%;
+    margin: auto;
+   
+    display: flex;
+    margin-top: 50px;
+}
+.lefts{
+    width: 80%;
+    height: 800px;
+    display: flex;
+}
+.leftleft{
+height: 800px;
+width: 60%;
+
+padding: 50px;
+}
+.leftright{
+    height: 800px;
+    width: 40%;
+  
+}
+.lltop{
+    height: 50%;
+    width: 100%;
+   
+}
+.llbottom{
+    height: 50%;
+    width: 100%;
+}
+.rights{
+    width: 40%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+   
+    padding-left: 43px;
+    font-size: 20px;
+    text-align: center;
+    font-family: inherit;
+    line-height: 2.0;
+}
+.display_dhp{
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+
+}
+.home_icons{
+    width: 33.33%;
+    margin: auto;
+}
+
+.ico_name{
+    margin: auto;
+    font-size: 30px;
+    font-family: math;
+    padding-top: 30px;
+    color: #bdbec0;
+}
+.quantity{
+   
+    text-align: center;
+}

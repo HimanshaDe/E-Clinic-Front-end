@@ -1,0 +1,14 @@
+.patient_login_area{
+    width: 30%;
+    margin: auto;
+    box-shadow: rgb(0 0 0 / 16%) 0px 10px 36px 0px, rgb(0 0 0 / 6%) 0px 0px 0px 1px;
+    margin-top: 130px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.topic_login{
+    color:#2080c5;
+    padding-top: 30px;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+.admindashboard{
+    display: flex;
+   
+}
+.leftsidesidebar{
+    background-color: #2080c5;
+}
+.dashboardArea{
+   
+   
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.dashboardtxt{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.rightsidearea{
+    width: 100%;
+    
+}
+
+.topofdashboard{
+    width: 100%;
+    background-color: rgb(217 217 217 / 44%);
+   
+}
+.dashboardcard{
+    width: 15rem;
+    height:fit-content;
+    
+}
+.dcards{
+    padding-left: 90px;
+    padding-top: 30px;
+}
+.cardlink{
+    text-decoration: none;
+    color: black;
+}
+.cardlink:hover{
+    
+    color: black;
+}

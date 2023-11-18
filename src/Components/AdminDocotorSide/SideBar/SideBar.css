@@ -1,0 +1,49 @@
+.dashboardbodyarea{
+    display: "flex"; 
+    height: 960px;
+     overflow: "scroll initial";
+   
+}
+.dleftside{
+    background-color: rgb(253, 93, 93);
+   
+    height: 937px;
+    color:"#fff"; 
+    max-width:372px;
+    width:372px;
+    
+}
+
+.navbartext{
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+  
+}
+.navbartext:hover{
+    text-decoration: none;
+    color: white;
+}
+.sidebar{
+   
+    height: 937px;
+    background-color: #fff;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    margin-right:20px;
+}
+.navbarlogo{
+    font-size: larger;
+    text-decoration: none;
+    
+}
+.logospand{
+   
+}
+.icon-suffix{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.user-md{}

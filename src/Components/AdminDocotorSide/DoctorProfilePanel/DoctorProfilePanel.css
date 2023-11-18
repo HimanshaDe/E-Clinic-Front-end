@@ -1,0 +1,22 @@
+.pagetop{
+    border-bottom: 1px solid #4190f742;
+}
+.page-heading {
+    position: relative;
+    padding: 30px 40px;
+    margin: 0px 0px 25px;
+    border-bottom: 1px solid #4190f742;
+    background-color: #ffffff12;
+}
+.doctor_nav{
+    padding-left: 40px;
+}
+.doc_buttons{
+    margin-right: 30px;
+    width: 200px;
+    background-color: #2080c5;
+}
+
+.doctor_logout{
+    
+}

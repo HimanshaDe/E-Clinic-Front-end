@@ -1,0 +1,23 @@
+.pagetop{
+    height: 60px;
+    width: 100%;
+    font-weight: bold;
+    color: #2080c5;
+    margin-top: 10px;
+    }
+    
+.clientsidenavbar{
+    color: whitw;
+}
+.navbarlink{
+    color: #2080c5;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.navbar_links{
+    padding-left: 50px;
+}
+
+.navbarlink .active{
+    font-weight: bold;
+}

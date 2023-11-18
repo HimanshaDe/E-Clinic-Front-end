@@ -1,0 +1,19 @@
+.doc_appointment_area{
+    margin-top: 46px;
+    padding-left: 42px;
+}
+.appointment_Quant{
+    font-weight: bold;
+    margin-left: 20px;
+    background-color:#2080c5;
+    height: 25px;
+    width: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 20%;
+  
+}
+.panel{
+    margin-left: 42px;
+    margin-top: 30px;
+}

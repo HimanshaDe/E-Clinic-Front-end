@@ -1,0 +1,24 @@
+.dashboardBody{
+    margin-top: 35px;
+    margin-left: 50px;
+    width: 80%;
+    margin-right: 50px;
+}
+.btnadding{
+    background-color: #2080c5;
+    padding: 10px;
+    width: 200px;
+    height: 60px;
+    font-size: large;
+    
+}
+.btnadding:hover{
+    background-color: rgb(22, 22, 22);
+}
+.editbtn{
+    background-color: #2080c5;
+    margin: auto;
+}
+.editbtn:hover{
+    background-color: rgb(22, 22, 22);
+}

@@ -1,0 +1,7 @@
+.doc_display_area{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
